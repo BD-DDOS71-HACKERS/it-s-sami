@@ -1,4 +1,4 @@
-# it-s-sami
+# it-s-sami virus tool
 git clone https://github.com/BD-DDOS71-HACKERS/it-s-sami.git
 
 
